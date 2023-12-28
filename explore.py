@@ -30,9 +30,9 @@ print(len(my_chores))
 
 # the keyword 'in' can be used for various things
 if 'dishes' in my_chores:
- print('yes, I found that in the list')
+    print('yes, I found that in the list')
 else:
- print('that element is not in the list')
+    print('that element is not in the list')
 
 
 
