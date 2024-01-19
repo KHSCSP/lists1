@@ -42,6 +42,6 @@ print("\n\n----- part 2, duplicates -----")
 
 
 
-print("\n\n----- part 3, swap -----")
+print("\n\n----- part 3, swap challenge -----")
 # input a string, convert to a list of items
 # swap the first and last item
