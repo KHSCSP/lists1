@@ -8,7 +8,8 @@ nums = [12, 0, -5, 42, 99, 85, 13]
 
 
 print("\n\n---- working with strings ----")
-foods = ["banana", "grape", "apple", "lettuce", "potato", "pea", "corn"]
+foods = "banana grape apple lettuce potato pea corn"
+# TODO convert to list
 # TODO experiment with len, min, max, sum
 # TODO experiment with append/insert, remove/del, index, count, sort/sorted, reverse
 
