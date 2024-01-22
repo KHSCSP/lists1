@@ -34,6 +34,7 @@ print("using .index():")
 
 print("\n\n---- working with strings ----")
 foods = "banana grape apple lettuce potato pea corn"
+kingdoms = "Animalia,Plantae,Fungi,Protista,Archaea,Bacteria"
 # TODO convert to list
 # TODO experiment with len, min, max, sum
 # TODO experiment with append/insert, remove/del, index, count, sort/sorted, reverse
