@@ -37,8 +37,8 @@ print("11) .sort() with reverse option:")
 
 print("\n\n----- part 2, duplicates -----")
 # input a string, determine if any words repeat
-# hint: convert to list, then use set() and len()
-
+# hint: use .split(" ") to create a list
+# then use set() and len()
 
 
 
